@@ -1,0 +1,6 @@
+{
+  "name": "Battery Hero",
+  "description": "A system monitor app to track battery health, temperature, memory usage, CPU cores, storage, and optimization logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

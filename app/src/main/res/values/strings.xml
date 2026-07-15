@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Battery Hero</string>
+    <string name="accessibility_service_desc">Provides deep hardware diagnostics and performance metrics optimization capabilities for Battery Hero.</string>
+</resources>
